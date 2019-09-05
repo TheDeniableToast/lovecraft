@@ -1,0 +1,13 @@
+main {
+    width: 60%;
+    margin: 0 auto;
+    font-family: 'Anton', sans-serif;
+    color: green;
+    font-size: 1em;
+}
+
+body {
+    background-color: black;
+    background-size: contain;
+    background-image: url(https://media0.giphy.com/media/7NoNw4pMNTvgc/giphy.gif)
+}
